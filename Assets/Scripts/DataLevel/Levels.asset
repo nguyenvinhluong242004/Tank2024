@@ -1,0 +1,178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9adb0d16f0f0c24f8cd8b4658a573ef, type: 3}
+  m_Name: Levels
+  m_EditorClassIdentifier: 
+  levelsData:
+  - _name: thdsa
+    dataLVs:
+    - playerPosition: {x: 0, y: 0, z: 0}
+      movePL: 0
+      blood: 0
+      enemyPositions: []
+      moveEnes: 
+      bloodEne: []
+      boxPositions: []
+      bulletPositions: []
+      typeBullet: 
+      bulletVelocitys: []
+      countEnemy: 0
+      killEnemy: 0
+      isSave: 0
+    - playerPosition: {x: 0, y: 0, z: 0}
+      movePL: 0
+      blood: 0
+      enemyPositions: []
+      moveEnes: 
+      bloodEne: []
+      boxPositions: []
+      bulletPositions: []
+      typeBullet: 
+      bulletVelocitys: []
+      countEnemy: 0
+      killEnemy: 0
+      isSave: 0
+    - playerPosition: {x: 0, y: 0, z: 0}
+      movePL: 0
+      blood: 0
+      enemyPositions: []
+      moveEnes: 
+      bloodEne: []
+      boxPositions: []
+      bulletPositions: []
+      typeBullet: 
+      bulletVelocitys: []
+      countEnemy: 0
+      killEnemy: 0
+      isSave: 0
+    - playerPosition: {x: 0, y: 0, z: 0}
+      movePL: 0
+      blood: 0
+      enemyPositions: []
+      moveEnes: 
+      bloodEne: []
+      boxPositions: []
+      bulletPositions: []
+      typeBullet: 
+      bulletVelocitys: []
+      countEnemy: 0
+      killEnemy: 0
+      isSave: 0
+  - _name: luong
+    dataLVs:
+    - playerPosition: {x: 0, y: 0, z: 0}
+      movePL: 0
+      blood: 0
+      enemyPositions: []
+      moveEnes: 
+      bloodEne: []
+      boxPositions: []
+      bulletPositions: []
+      typeBullet: 
+      bulletVelocitys: []
+      countEnemy: 0
+      killEnemy: 0
+      isSave: 0
+    - playerPosition: {x: 0, y: 0, z: 0}
+      movePL: 0
+      blood: 0
+      enemyPositions: []
+      moveEnes: 
+      bloodEne: []
+      boxPositions: []
+      bulletPositions: []
+      typeBullet: 
+      bulletVelocitys: []
+      countEnemy: 0
+      killEnemy: 0
+      isSave: 0
+    - playerPosition: {x: 0, y: 0, z: 0}
+      movePL: 0
+      blood: 0
+      enemyPositions: []
+      moveEnes: 
+      bloodEne: []
+      boxPositions: []
+      bulletPositions: []
+      typeBullet: 
+      bulletVelocitys: []
+      countEnemy: 0
+      killEnemy: 0
+      isSave: 0
+    - playerPosition: {x: 0, y: 0, z: 0}
+      movePL: 0
+      blood: 0
+      enemyPositions: []
+      moveEnes: 
+      bloodEne: []
+      boxPositions: []
+      bulletPositions: []
+      typeBullet: 
+      bulletVelocitys: []
+      countEnemy: 0
+      killEnemy: 0
+      isSave: 0
+  - _name: nhi
+    dataLVs:
+    - playerPosition: {x: 0, y: 0, z: 0}
+      movePL: 0
+      blood: 0
+      enemyPositions: []
+      moveEnes: 
+      bloodEne: []
+      boxPositions: []
+      bulletPositions: []
+      typeBullet: 
+      bulletVelocitys: []
+      countEnemy: 0
+      killEnemy: 0
+      isSave: 0
+    - playerPosition: {x: 0, y: 0, z: 0}
+      movePL: 0
+      blood: 0
+      enemyPositions: []
+      moveEnes: 
+      bloodEne: []
+      boxPositions: []
+      bulletPositions: []
+      typeBullet: 
+      bulletVelocitys: []
+      countEnemy: 0
+      killEnemy: 0
+      isSave: 0
+    - playerPosition: {x: 0, y: 0, z: 0}
+      movePL: 0
+      blood: 0
+      enemyPositions: []
+      moveEnes: 
+      bloodEne: []
+      boxPositions: []
+      bulletPositions: []
+      typeBullet: 
+      bulletVelocitys: []
+      countEnemy: 0
+      killEnemy: 0
+      isSave: 0
+    - playerPosition: {x: 0, y: 0, z: 0}
+      movePL: 0
+      blood: 0
+      enemyPositions: []
+      moveEnes: 
+      bloodEne: []
+      boxPositions: []
+      bulletPositions: []
+      typeBullet: 
+      bulletVelocitys: []
+      countEnemy: 0
+      killEnemy: 0
+      isSave: 0
+  _name: 

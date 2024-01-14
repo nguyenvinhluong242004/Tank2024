@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Ene
+  - BulletPL
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background 3
+    uniqueID: 4251717501
+    locked: 0
+  - name: Background 1
+    uniqueID: 3065418845
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background 2
+    uniqueID: 429964923
+    locked: 0
+  - name: Obj
+    uniqueID: 2140849039
+    locked: 0
+  - name: UI
+    uniqueID: 840902227
+    locked: 0
